@@ -1,0 +1,31 @@
+body{
+    /* background-color: #495057; */
+    background-color: #000000dc;
+}
+body > div{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+    color: beige;
+    text-align: center
+}
+#photo-holder {
+    height: 50vmin;
+    width: 50vmin;
+    /* background-color: beige; */
+    border-radius: 150px 1px;
+    display: inline-block;
+    border: 2px solid black;
+    background-image: url(../img/profile_photo.jpg);
+    background-position: 50% 30%; 
+}
+#personal-links > a {
+    margin: 3vmin;
+    font-size: 3vmin;
+    color: beige
+}
