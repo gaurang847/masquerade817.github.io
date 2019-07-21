@@ -19,7 +19,7 @@ body > div{
     /* background-color: beige; */
     border-radius: 150px 1px;
     display: inline-block;
-    border: 2px solid black;
+    border: 2px inset beige;
     background-image: url(../img/profile_photo.jpg);
     background-position: 50% 30%; 
 }
