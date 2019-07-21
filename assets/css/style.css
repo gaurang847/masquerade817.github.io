@@ -16,8 +16,7 @@ body > div{
 #photo-holder {
     height: 50vmin;
     width: 50vmin;
-    /* background-color: beige; */
-    border-radius: 150px 1px;
+    border-radius: 50% 0%;
     display: inline-block;
     border: 2px inset beige;
     background-image: url(../img/profile_photo.jpg);
