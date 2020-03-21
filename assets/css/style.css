@@ -14,17 +14,26 @@ body > div{
     transform: translateY(-50%);
 }
 #photo-holder {
-    height: 50vmin;
-    width: 50vmin;
+    height: 35vmin;
+    width: 35vmin;
     border-radius: 50% 0%;
     display: inline-block;
     border: 2px inset beige;
     background-image: url(../img/profile_photo.jpg);
-    background-position: 50% 30%; 
+    background-position: 51.5% 32%; 
 }
 #personal-links > a {
     margin: 3vmin;
     font-size: 4vmin;
     color: beige;
     text-decoration-line: none;
+    margin-top: unset;
+}
+#bio {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#bio > p {
+    margin-top: 2vmin;
+    font-style: italic;
 }
