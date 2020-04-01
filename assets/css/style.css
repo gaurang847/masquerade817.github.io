@@ -37,3 +37,10 @@ body > div{
     margin-top: 2vmin;
     font-style: italic;
 }
+@media (max-width: 800px), (max-height: 800px){
+    #personal-links > a {
+        margin-left: 25px;
+        margin-right: 25px;
+        font-size: 25px;
+    }
+}
