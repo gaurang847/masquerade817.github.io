@@ -44,3 +44,9 @@ body > div{
         font-size: 25px;
     }
 }
+@media (max-height: 500px) {
+    body > div {
+        top: 20px;
+        transform: none;
+    }
+}
