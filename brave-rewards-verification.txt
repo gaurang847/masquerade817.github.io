@@ -1,0 +1,8 @@
+---
+layout: none
+permalink: .well-known/brave-payments-verification.txt
+---
+This is a Brave Rewards publisher verification file.
+
+Domain: gaurang.page
+Token: 2b85ca15c7e9fb7af33a4e0bbd814f76281be41d8defe91a14a5f7fae23d302f
